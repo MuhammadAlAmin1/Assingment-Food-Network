@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.colar-darkorange{
+    color: darkorange;
+}
+
+.flexible-container{
+   display: flex;
+   padding: 3% 2%;
+   margin-bottom:100px;
+}
+
+.half-width{
+ width: 50%;
+ 
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration:none;
+    padding: 10px 20px;
+    border-radius:10px;
+}
+.background-image{
+    background-image: url(images/shapes/7.png);
+    padding:10% 10%;
+    
+ }
+ #Recipie{
+     text-align: center;
+ }
+ #small{
+     text-align:center;
+ }
+ .item-foods{
+    box-shadow: 10px 10px 15px gray;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 30%;
+    padding:3% 5%;
+    border-radius:10px;
+
+ }
+ #good-by{
+     text-align: center;
+    background-color:darkgrey;
+    width:100%;
+ }
+ .colar{
+     background-color: darkorange;
+ }
+
